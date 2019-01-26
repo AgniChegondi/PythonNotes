@@ -10,4 +10,4 @@ with open("aws.txt") as afile:
 	print(afile.readlines())
 	print(afile.tell())
 	print(afile.seek(20))
-	print(afile.read())
+	print(afile.read())1
